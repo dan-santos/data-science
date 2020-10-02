@@ -7,6 +7,6 @@ dificuldades em imaginar como passar e estruturar o código do notebook em um ar
 por notebooks, então você terá que rodar o arquivo localmente para que tudo funcione corretamente. Por fim, todos os arquivos que eu usei no decorrer da programação /
 análise exploratória dos dados estarão contidos em pastas com nomes condizentes ao seu propósito.
 
-Se você não sabe como importar bibliotecas para seu projeto local, você pode [ver esse readme que fiz para outro repositório](https://github.com/dan-santos/pyorganize).
+Se você não sabe como importar bibliotecas para seu projeto local, você pode [ver esse tutorial](https://docs.python.org/pt-br/3/tutorial/venv.html) na própria documentação do Python.
 
 
